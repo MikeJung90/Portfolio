@@ -17,13 +17,13 @@ main {
   /* width: 100%; */
 }
 
-header {
+.nav-bar {
   background-color:#fff;
   border: 1px solid gainsboro;
   position: fixed;
   padding: 12px;
   top: 0;
-  width: 100% !important;
+  width: 100%;
 }
 
 .nav-link {
