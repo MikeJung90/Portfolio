@@ -30,6 +30,11 @@ main {
   margin: 0 12px;
 }
 
+.about-img {
+  width: 50%;
+  border-radius: 50%;
+}
+
 .about-me {
   margin-top: 50px;
 }
@@ -43,8 +48,14 @@ h1, h2 {
   margin-bottom: 20px;
 }
 
-.section-about-me {
+.section-about-me,
+.about-skills,
+.projects {
  margin-bottom: 50px;
+}
+
+.skill-title {
+  margin-bottom: 0px;
 }
 
 .about-skills {
@@ -58,12 +69,16 @@ h1, h2 {
   font-weight: 15px;
 }
 
-.skill-title {
-  margin-bottom: 30px;
-}
-
 .skill-list p {
   margin-top: -10px;
+}
+
+.project-title {
+  margin-bottom: 0px;
+}
+
+.project-thumbnail {
+  width: 65%;
 }
 
 .contact-list {
