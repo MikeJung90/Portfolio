@@ -19,3 +19,5 @@ const scrollTo = (function() {
 
   return bindScroll;
 }());
+
+// - $(section).height()
