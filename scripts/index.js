@@ -3,5 +3,5 @@
 
 
 $(document).ready(function(){
-  Scroll.scrollTo();
+  Scroll.bindScroll();
 });
