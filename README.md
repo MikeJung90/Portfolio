@@ -30,7 +30,7 @@ Component | Purpose |
 --- | --- |
 App | Porfolio |
 About | Intro to my page and the landing page |
-Header-Bar | Header bar that persists in all views, also serves as navigation bar |
+Navigation-Bar | Navigation bar that persists in all views |
 Skills | Lists skill set I have accquired so far |
 Projects | Display containing the Form component or existing appointment information |
 Resume | Responsible for displaying a section of components |
