@@ -7,10 +7,10 @@
 - [Components](#components)
 
 ## Introduction
-This is the client documentation for [Portfolio](https://github.com/MikeJung90/Portfolio).
+This is the documentation for [Portfolio].
 
 ## Live Site
-[Portfolio](https:// "Portfolio")
+[Portfolio](https://mikejung90.github.io/Portfolio/ "Portfolio")
 
 ## Goals
 ### The goals for Portfolio is to:
@@ -30,7 +30,7 @@ Component | Purpose |
 --- | --- |
 App | Porfolio |
 About | Intro to my page and the landing page |
-Header-Bar | Header bar that persists in all views, also serves as navigation bar |
+Navigation-Bar | Navigation bar that persists in all views |
 Skills | Lists skill set I have accquired so far |
 Projects | Display containing the Form component or existing appointment information |
 Resume | Responsible for displaying a section of components |
